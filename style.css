@@ -3715,7 +3715,7 @@ footer .container {
 .single-post-content img,
 .custom-page-template img {
 	height: auto;
-	max-width: 100%;
+	width: 100%;
 }
 
 .icon-img img{
